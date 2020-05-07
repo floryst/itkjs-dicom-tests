@@ -1,0 +1,4 @@
+/work/web-build/CMakeFiles/rebuild_cache.dir
+/work/web-build/CMakeFiles/edit_cache.dir
+/work/web-build/CMakeFiles/dicomWasm.dir
+/work/web-build/CMakeFiles/dicom.dir

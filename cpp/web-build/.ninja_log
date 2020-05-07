@@ -1,0 +1,9 @@
+# ninja log v5
+6	7658	0	CMakeFiles/dicom.dir/dicom.cpp.o	917ec314521d9e77
+6	7647	0	CMakeFiles/dicomWasm.dir/dicom.cpp.o	28e537a187c15651
+7658	30279	0	dicom.js	ebe409a431172f25
+7647	39383	0	dicomWasm.js	29c44b6d4faddfc6
+5	7239	0	CMakeFiles/dicom.dir/dicom.cpp.o	917ec314521d9e77
+5	7257	0	CMakeFiles/dicomWasm.dir/dicom.cpp.o	28e537a187c15651
+7239	31206	0	dicom.js	ebe409a431172f25
+7257	40647	0	dicomWasm.js	29c44b6d4faddfc6
